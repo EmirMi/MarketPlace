@@ -1,0 +1,11 @@
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\bin\Debug\MarketPlace.exe.config
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\bin\Debug\MarketPlace.exe
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\bin\Debug\MarketPlace.pdb
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\obj\Debug\MarketPlace.csprojResolveAssemblyReference.cache
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\obj\Debug\MarketPlace.MarketPlace.resources
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\obj\Debug\MarketPlace.Properties.Resources.resources
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\obj\Debug\MarketPlace.csproj.GenerateResource.Cache
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\obj\Debug\MarketPlace.exe
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\obj\Debug\MarketPlace.pdb
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\bin\Debug\MarketShopLibrary.dll
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketPlace\bin\Debug\MarketShopLibrary.pdb

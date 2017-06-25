@@ -1,0 +1,5 @@
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketShopLibrary\bin\Debug\MarketShopLibrary.dll
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketShopLibrary\bin\Debug\MarketShopLibrary.pdb
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketShopLibrary\obj\Debug\MarketShopLibrary.dll
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketShopLibrary\obj\Debug\MarketShopLibrary.pdb
+C:\Users\emirm\Desktop\C#\Projects\MarketPlace\MarketShopLibrary\obj\Debug\MarketShopLibrary.csprojResolveAssemblyReference.cache
